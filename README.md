@@ -1,4 +1,4 @@
-# 🩺 EasySwasth
+#  EasySwasth 🩺
 ### Health Explainer System
 
 EasySwasth is a Django + React based healthcare assistance system designed especially for **rural users**.  
