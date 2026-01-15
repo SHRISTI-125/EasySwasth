@@ -22,6 +22,7 @@ EasySwasth helps users by:
 - Providing **symptom-based health checks** when reports are not available  
 - Suggesting **Indian diet, yoga, and lifestyle changes**  
 - Helping users find **free or low-cost diagnostic labs**
+  
 
 ---
 
